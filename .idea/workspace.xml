@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec8137ee-da27-4267-89f7-e803a0e4806e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/algoritmos de ordenação/src/algoritmos_ordenacao/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade1/questao01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/atividade1/questao04/src/BHSI_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ed2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmos de ordenação/src/algoritmos_ordenacao/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos de ordenação/src/algoritmos_ordenacao/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoritmos de ordenação/src/algoritmos_ordenacao/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/algoritmos de ordenação/src/algoritmos_ordenacao/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/atividade01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/out/production/atividade01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/out/production/questao01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao01/questao01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao01/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao02/questao02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/atividade1/questao04/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao03/questao03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao03/src/BuscaBinariaGenerica.java" beforeDir="false" afterPath="$PROJECT_DIR$/atividade1/questao03/src/BuscaBinariaGenerica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao03/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/atividade1/questao03/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao04/questao04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/atividade01/questao04/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos_ordenacao/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos_ordenacao/algoritmos_ordenacao/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos_ordenacao/algoritmos_ordenacao/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos_ordenacao/algoritmos_ordenacao/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos_ordenacao/algoritmos_ordenacao/ShellSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algoritmos_ordenacao/algoritmos_ordenacao_generic/MergeSortGeneric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/questao03/BuscaBinariaGenerica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/questao03/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2W7fqKf3PBJ85uCNoxasx49YLhV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/joao6/OneDrive/ana clara/Documentos/github/trabalhos_implementacao_ed2/atividade1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/joao6/OneDrive/ana clara/Documentos/github/trabalhos_implementacao_ed2/atividade1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joao6\OneDrive\ana clara\Documentos\github\trabalhos_implementacao_ed2\atividade1\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joao6\OneDrive\ana clara\Documentos\github\trabalhos_implementacao_ed2\atividade1\src\questao01" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="geral" />
+      <recent name="SelectSort" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="trabalhos_implementacao_ed2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="trabalhos_implementacao_ed2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec8137ee-da27-4267-89f7-e803a0e4806e" name="Changes" comment="" />
+      <created>1696088728274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696088728274</updated>
+      <workItem from="1696088729303" duration="11304000" />
+      <workItem from="1696162225261" duration="5331000" />
+      <workItem from="1696169256222" duration="185000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/atividade01/untitled/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

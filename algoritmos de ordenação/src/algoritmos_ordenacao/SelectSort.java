@@ -4,6 +4,8 @@ public class SelectSort {
     private int [] numbers;
     public SelectSort(int [] numbers){
         this.numbers = numbers;
+    }public SelectSort(){
+
     }
     public void printNumbers(){
         for(int n: this.numbers){
@@ -11,7 +13,7 @@ public class SelectSort {
         }
     }
 
-    public void orderNumbers(){
+    public int[] orderNumbers(){
         int min, sizeArray, temp;
         int [] array;
 
@@ -30,5 +32,6 @@ public class SelectSort {
             array[i] = temp;
         }
         this.numbers = array;
+        return this.numbers;
     }
 }

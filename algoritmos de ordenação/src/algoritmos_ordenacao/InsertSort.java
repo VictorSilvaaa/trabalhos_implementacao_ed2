@@ -11,7 +11,7 @@ public class InsertSort {
         }
     }
 
-    public void orderNumbers(){
+    public int[] orderNumbers(){
         int i,sizeArray, chave;
         int [] array;
 
@@ -30,5 +30,6 @@ public class InsertSort {
         }
 
         this.numbers = array;
+        return this.numbers;
     }
 }
